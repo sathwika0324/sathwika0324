@@ -17,3 +17,6 @@ The project enables businesses to make data-driven decisions, optimizing marketi
 Certification 
 Completed a comprehensive online course by GOOGLE covering key concepts of digital marketing, including SEO, social media marketing, email marketing, and analytics. Gained practical skills in developing effective digital marketing strategies and measuring their success. 
 
+Portfolio:
+file:///C:/Users/scf7p/Documents/index.html
+
